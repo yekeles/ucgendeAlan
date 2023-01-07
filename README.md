@@ -1,0 +1,1 @@
+# Üçgende Alan Hesaplama
